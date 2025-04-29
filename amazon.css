@@ -25,7 +25,7 @@ header{
     margin-left: 20px;   
 }
 .logo{
-    background-image:url(Amazon_logo.webp);
+    background-image:url(./images/Amazon_logo.webp);
     background-size: cover;
     height: 50px;
     width: 100px;
